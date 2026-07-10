@@ -1,16 +1,15 @@
-<!-- ### Hey, I'm Akshat 👋 
 
-<br />
+### Hi, I'm Akshat 👋
 
-I'm **Akshat**, a Frontend Developer transitioning into **Full-Stack Development**. I build products with React on the frontend and I'm currently deep in Node.js/Express/MongoDB to round out the stack — with the long-term goal of becoming an **AI-integrated full-stack developer**.
+Full-Stack Developer based in India. I specialize in building fast, responsive interfaces with React and modern frontend tooling, and bring that same product sense to backend work with Node.js, Express, and MongoDB. Currently exploring AI integration in web applications.
 
 <img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
-- 🌱 I'm learning Backend development and AI integration
-- 💼 Comfortable with React, TanStack Query, Redux, and Supabase on the frontend
-- 🎯 Goal: Become a full-stack developer who ships AI-integrated products
-- 📝 I like learning by building — incremental projects, hands-on debugging, and my own bullet-point notes
-- 💬 Ask me about Full Stack -->
+- 💻 Frontend: React, Redux, TanStack Query, Tailwind CSS, Styled Components
+- ⚙️ Backend: Node.js, Express, MongoDB, JWT Authentication, REST APIs
+- 🤖 Exploring AI-integrated web development
+- 📫 Open to connecting — reach out via LinkedIn or Twitter below
+
 
 **Languages and Tools:**
 
