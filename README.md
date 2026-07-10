@@ -1,9 +1,11 @@
 
 ### Hi, I'm Akshat 👋
 
+< br />
+
 Full-Stack Developer based in India. I specialize in building fast, responsive interfaces with React and modern frontend tooling, and bring that same product sense to backend work with Node.js, Express, and MongoDB. Currently exploring AI integration in web applications.
 
-<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
+< br />
 
 - 💻 Frontend: React, Redux, TanStack Query, Tailwind CSS, Styled Components
 - ⚙️ Backend: Node.js, Express, MongoDB, JWT Authentication, REST APIs
