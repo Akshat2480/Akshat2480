@@ -7,12 +7,6 @@ Full-Stack Developer based in India. I specialize in building fast, responsive i
 
 <br />
 
-- 💻 Frontend: React, Redux, TanStack Query, Tailwind CSS, Styled Components
-- ⚙️ Backend: Node.js, Express, MongoDB, JWT Authentication, REST APIs
-- 🤖 Exploring AI-integrated web development
-- 📫 Open to connecting — reach out via LinkedIn or Twitter below
-
-
 **Languages and Tools:**
 
 - Languages:
