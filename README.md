@@ -1,13 +1,11 @@
 
 ### Hi, I'm Akshat 👋
 
-<br />
-
 Full-Stack Developer based in India. I specialize in building fast, responsive interfaces with React and modern frontend tooling, and bring that same product sense to backend work with Node.js, Express, and MongoDB. Currently exploring AI integration in web applications.
 
 <br />
 
-**Languages and Tools:**
+##  🧠 Languages and Tools
 
 - Languages:
 
@@ -56,6 +54,22 @@ Full-Stack Developer based in India. I specialize in building fast, responsive i
     ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
     ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+<br />
+
+## 🌐 Connect with me
+ 
+<p align="left">
+  <a href="mailto:akshatworkstuffs@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/akshat-sharma-b48269349">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/Akshat2480">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
 
 <br />
 
